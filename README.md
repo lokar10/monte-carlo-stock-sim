@@ -43,6 +43,6 @@ The following table summarizes the quantitative output of the simulation:
 ## 🛠️ Installation & Usage
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/lokar10/repo-name.git](https://github.com/lokar10/repo-name.git)
+   git clone [https://github.com/lokar10/monte-carlo-stock-sim.git](https://github.com/lokar10/monte-carlo-stock-sim.git)
 2. Install dependencies: pip install -r requirements.txt
-3. Run the script: python simulation.py
+3. Run the script: Monte_Carlo_Simulator_S&P500_vs_NVIDIA.ipynb
